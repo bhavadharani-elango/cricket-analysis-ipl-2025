@@ -4,7 +4,7 @@ Data Analysis project using Power BI, SQL, and DAX to uncover IPL 2025 player an
 
 <!-- Place your images in /screenshots and uncomment the lines below -->
 <p align="center">
-  <img src="screenshots/overview.png" width="800" alt="Overview Dashboard"/>
+  <img src="https://github.com/bhavadharani-elango/ipl_analysis_images/blob/main/dashboard-screen1.png" width="800" alt="Overview Dashboard"/>
 
 ## 📌 Project Overview
 An **interactive Power BI dashboard** analyzing **IPL 2025** team and player performance.  
