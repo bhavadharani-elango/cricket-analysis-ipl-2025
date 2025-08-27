@@ -2,6 +2,10 @@
 Data Analysis project using Power BI, SQL, and DAX to uncover IPL 2025 player and team performance trends.
 # 🏏 Cricket Analysis Dashboard (IPL 2025)
 
+<!-- Place your images in /screenshots and uncomment the lines below -->
+<p align="center">
+  <img src="screenshots/overview.png" width="800" alt="Overview Dashboard"/>
+
 ## 📌 Project Overview
 An **interactive Power BI dashboard** analyzing **IPL 2025** team and player performance.  
 It covers **batting & bowling KPIs, win/loss trends, toss impact, and venue effects**, showing how sports data can drive actionable insights.
